@@ -1,0 +1,385 @@
+{
+  "schema": 1,
+  "docsRoot": "https://docs.copilotkit.ai/vue/strands-typescript",
+  "syncedAt": "2026-11-17T12:57:56.793Z",
+  "pages": {
+    "/strands-typescript/generative-ui/components": {
+      "file": "strands-typescript__generative-ui__components.md",
+      "sha256": "ed8b21f11222f884a7139dd66fc593baae4b5268bcb91b4634abd6f7b36b8a2f",
+      "bytes": 33661,
+      "lines": 795,
+      "routes": [
+        "/generative-ui/components"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:57 GMT"
+    },
+    "/strands-typescript/generative-ui/components/catalogs": {
+      "file": "strands-typescript__generative-ui__components__catalogs.md",
+      "sha256": "ec5d2b7365b31454b0abcf6dfc46f0346042c12cba3a4825862bc0ad4e62a247",
+      "bytes": 23841,
+      "lines": 520,
+      "routes": [
+        "/generative-ui/components/catalogs"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:57 GMT"
+    },
+    "/strands-typescript/generative-ui/components/from-a2ui": {
+      "file": "strands-typescript__generative-ui__components__from-a2ui.md",
+      "sha256": "e1314b5270074bb1fe835ce478a0248decad6c93269034b0d82f151d15b806c8",
+      "bytes": 16728,
+      "lines": 279,
+      "routes": [
+        "/generative-ui/components/from-a2ui"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:57 GMT"
+    },
+    "/strands-typescript/generative-ui/components/markdown-mode": {
+      "file": "strands-typescript__generative-ui__components__markdown-mode.md",
+      "sha256": "260f31a77b1d5d49d6cc8bf3360361796560d3153152d95485406271f73c6a3e",
+      "bytes": 8759,
+      "lines": 188,
+      "routes": [
+        "/generative-ui/components/markdown-mode"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:57 GMT"
+    },
+    "/strands-typescript/generative-ui/components/standard-catalog": {
+      "file": "strands-typescript__generative-ui__components__standard-catalog.md",
+      "sha256": "00b3e6b8e339d474705941611c8db7932bacfca9f622a6dbcf94782d39f92585",
+      "bytes": 16198,
+      "lines": 238,
+      "routes": [
+        "/generative-ui/components/standard-catalog"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:57 GMT"
+    },
+    "/strands-typescript/generative-ui/components/state-and-actions": {
+      "file": "strands-typescript__generative-ui__components__state-and-actions.md",
+      "sha256": "773b596d312f13de0ff735db91a80ec7270f07c8639d6d37cda900cec188efac",
+      "bytes": 23527,
+      "lines": 556,
+      "routes": [
+        "/generative-ui/components/state-and-actions"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:57 GMT"
+    },
+    "/strands-typescript/generative-ui/components/surfaces": {
+      "file": "strands-typescript__generative-ui__components__surfaces.md",
+      "sha256": "4dff3b6f7a02bfbcb66ac9a8bf3a32aebe98617f2749890dc1c23cbbdce2f087",
+      "bytes": 21288,
+      "lines": 427,
+      "routes": [
+        "/generative-ui/components/surfaces"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/strands-typescript/generative-ui/components/theming": {
+      "file": "strands-typescript__generative-ui__components__theming.md",
+      "sha256": "8f7a5f2b7d52f89ed7e84702f363f461c34adb5f7dca4cfb839efbacda58e7ff",
+      "bytes": 6810,
+      "lines": 203,
+      "routes": [
+        "/generative-ui/components/theming"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/strands-typescript/generative-ui/components/transports": {
+      "file": "strands-typescript__generative-ui__components__transports.md",
+      "sha256": "e464db02a553c3d340416c5697f5a77a358c2f395e5aafc59f3c89960b979158",
+      "bytes": 5166,
+      "lines": 139,
+      "routes": [
+        "/generative-ui/components/transports"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript": {
+      "file": "vue__strands-typescript.md",
+      "sha256": "a742b533e4f0647a93447514a60a53f253e4cc96652d6a73ae12f1318f3f1824",
+      "bytes": 8287,
+      "lines": 201,
+      "routes": [
+        "/",
+        "/quickstart"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/custom-look-and-feel/headless-ui": {
+      "file": "vue__strands-typescript__custom-look-and-feel__headless-ui.md",
+      "sha256": "01361da1b651408594ad564059abe0c42181ac3ca83b7638fe730cccf9334081",
+      "bytes": 7230,
+      "lines": 195,
+      "routes": [
+        "/custom-look-and-feel/headless-ui"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/custom-look-and-feel/slots": {
+      "file": "vue__strands-typescript__custom-look-and-feel__slots.md",
+      "sha256": "992430bb56a5ab1d285cfae290b94341e89d1e3a910166d582a705103c1db89e",
+      "bytes": 8806,
+      "lines": 270,
+      "routes": [
+        "/custom-look-and-feel/slots"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/frontend-tools": {
+      "file": "vue__strands-typescript__frontend-tools.md",
+      "sha256": "c039a209fbfeae2f5121070e825d0a25f39f21b5466a89185fd69365b47a903d",
+      "bytes": 3136,
+      "lines": 76,
+      "routes": [
+        "/frontend-tools"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/generative-ui/mcp-apps": {
+      "file": "vue__strands-typescript__generative-ui__mcp-apps.md",
+      "sha256": "a56ae2f57bffbfdd5959094850de7ba2284895815ad13cd3fe7df5c3d2ff6ee6",
+      "bytes": 5472,
+      "lines": 155,
+      "routes": [
+        "/generative-ui/mcp-apps"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/generative-ui/state-rendering": {
+      "file": "vue__strands-typescript__generative-ui__state-rendering.md",
+      "sha256": "a04d9426c8d6bac3024be78bd15c98344bed30dc6ca5f2380b4faa2b53c9fd62",
+      "bytes": 3248,
+      "lines": 76,
+      "routes": [
+        "/generative-ui/state-rendering"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/generative-ui/tool-based": {
+      "file": "vue__strands-typescript__generative-ui__tool-based.md",
+      "sha256": "2c73fede432692efdc3c90df26d1696e6e1978236a5238fdd4abdc684fd39a16",
+      "bytes": 3501,
+      "lines": 84,
+      "routes": [
+        "/generative-ui/tool-based"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/generative-ui/tool-rendering": {
+      "file": "vue__strands-typescript__generative-ui__tool-rendering.md",
+      "sha256": "4b2f82f576d0db5a9de9ece8f7babcfe2f4c2d3f3136d45ce909265663a4c378",
+      "bytes": 5298,
+      "lines": 132,
+      "routes": [
+        "/generative-ui/tool-rendering"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/headless-threads": {
+      "file": "vue__strands-typescript__headless-threads.md",
+      "sha256": "592dae8b9a2e1ef6463f8ebda8a003ac14fe4d765314b784fd6bfe8911e8a0e6",
+      "bytes": 7628,
+      "lines": 182,
+      "routes": [
+        "/headless-threads"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/human-in-the-loop": {
+      "file": "vue__strands-typescript__human-in-the-loop.md",
+      "sha256": "839702f7bc87395b76a89a56154219d667fb4d0cd2ef004230fd4ae11e283a67",
+      "bytes": 7289,
+      "lines": 160,
+      "routes": [
+        "/human-in-the-loop"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/human-in-the-loop/governed-actions": {
+      "file": "vue__strands-typescript__human-in-the-loop__governed-actions.md",
+      "sha256": "6108b33ad1000801d9062b0cd869240c294ad278ee202eaae810db0217a636ac",
+      "bytes": 8125,
+      "lines": 247,
+      "routes": [
+        "/human-in-the-loop/governed-actions"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/human-in-the-loop/headless": {
+      "file": "vue__strands-typescript__human-in-the-loop__headless.md",
+      "sha256": "d40a027e82c56c012166446a5845aa4a29df0d46cc0b1a8ad4d7aedbd8c5c691",
+      "bytes": 5762,
+      "lines": 140,
+      "routes": [
+        "/human-in-the-loop/headless"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/human-in-the-loop/useInterrupt": {
+      "file": "vue__strands-typescript__human-in-the-loop__useInterrupt.md",
+      "sha256": "3e9a7a7c4dcc061d5f215a3460654fa43905adf85141aab8151d1d1025554eb2",
+      "bytes": 12567,
+      "lines": 304,
+      "routes": [
+        "/human-in-the-loop/useInterrupt"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/multi-agent/subagents": {
+      "file": "vue__strands-typescript__multi-agent__subagents.md",
+      "sha256": "d62749ee6272c79247435103f69453c6675158f7a9cc863e3960f2c05199ac18",
+      "bytes": 11656,
+      "lines": 328,
+      "routes": [
+        "/multi-agent/subagents"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/prebuilt-components": {
+      "file": "vue__strands-typescript__prebuilt-components.md",
+      "sha256": "dfcefb730c9fd1597d79c748efa96954c4ed080ddd00fd81201c59badd9832aa",
+      "bytes": 2813,
+      "lines": 70,
+      "routes": [
+        "/prebuilt-components"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/prebuilt-components/copilot-threads-drawer": {
+      "file": "vue__strands-typescript__prebuilt-components__copilot-threads-drawer.md",
+      "sha256": "b775f369f33718ac9ebe0485bdeb6de97fe496645902b34c5fa00c0fbff1f58c",
+      "bytes": 10499,
+      "lines": 243,
+      "routes": [
+        "/prebuilt-components/copilot-threads-drawer"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/programmatic-control": {
+      "file": "vue__strands-typescript__programmatic-control.md",
+      "sha256": "f0e80d8c72f8c5cc4acf8da28b92f1a46526e439db107feaf9b9ab5d9307b95a",
+      "bytes": 5257,
+      "lines": 140,
+      "routes": [
+        "/programmatic-control"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/shared-state": {
+      "file": "vue__strands-typescript__shared-state.md",
+      "sha256": "2b102f5c22e2f07bbad76aac7a4b65970e14af9e1dea73278e1dd0b0489b1fc4",
+      "bytes": 5281,
+      "lines": 128,
+      "routes": [
+        "/shared-state"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:58 GMT"
+    },
+    "/vue/strands-typescript/shared-state/agent-readonly": {
+      "file": "vue__strands-typescript__shared-state__agent-readonly.md",
+      "sha256": "80e717ea1cdbab39e2413375331b345ce9b427700d65d466e07d725c84173f3b",
+      "bytes": 3489,
+      "lines": 77,
+      "routes": [
+        "/shared-state/agent-readonly"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:59 GMT"
+    },
+    "/vue/strands-typescript/shared-state/rendering-in-app": {
+      "file": "vue__strands-typescript__shared-state__rendering-in-app.md",
+      "sha256": "0c80a6cee869c8e368d32cc70768d19893a90449b3bd8f090801ebe0a4620111",
+      "bytes": 5237,
+      "lines": 128,
+      "routes": [
+        "/shared-state/rendering-in-app"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:59 GMT"
+    },
+    "/vue/strands-typescript/shared-state/streaming": {
+      "file": "vue__strands-typescript__shared-state__streaming.md",
+      "sha256": "0b1bbafcc720280ce599de5b8c1475f69f3506d8f12abbf84654749923fe20ad",
+      "bytes": 4065,
+      "lines": 90,
+      "routes": [
+        "/shared-state/streaming"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:59 GMT"
+    },
+    "/vue/strands-typescript/webmcp": {
+      "file": "vue__strands-typescript__webmcp.md",
+      "sha256": "2b68f5697869f1645de2d6c425abc5d98f0b6d3e29e814da6c6ba15851bf8242",
+      "bytes": 7259,
+      "lines": 161,
+      "routes": [
+        "/webmcp"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 12:57:59 GMT"
+    }
+  },
+  "sitemap": {
+    "fetchedAt": "2026-11-17T12:57:56.793Z",
+    "urlsUnderRoot": 0,
+    "knownUnmapped": []
+  }
+}
